@@ -1,0 +1,29 @@
+moov
+====
+
+this document organizes teh moovmnt.
+
+
+moovmnt is simple. get active.
+
+how will you get active? we'll send some moovers to help you
+
+
+meet with our network of moovers tryna moov and shake just like you.
+
+# Structure
+
+This is a living document so what im writing is more thoughts than anything
+
+this should be a document that grows and expands to fit neeeds and demaands
+
+you are here (note: each of these could have HUIs for human use)
+
+`
+# the file structure
+
+\ideas - any files, pictures, drawings, word documents
+\data - anything related to storing data
+\apps - some runnable something
+\setup - tools for setting up the system and turning it on and off 
+`
