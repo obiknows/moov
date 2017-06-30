@@ -1,5 +1,7 @@
 {
   "expo": {
+    "name": "MOOV: moovmnt of by the ppl",
+    "slug": "moov",
     "sdkVersion": "18.0.0"
   }
 }
