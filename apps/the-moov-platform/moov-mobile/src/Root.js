@@ -1,7 +1,13 @@
-import React from 'react';
+// Root.js - heart of the app
+
+// Libraries
+import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-export default class Root extends React.Component {
+// Main
+class Root extends Component {
+
+  // Main Render
   render() {
     return (
       <View style={styles.container}>
@@ -19,3 +25,5 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+export default Root;
